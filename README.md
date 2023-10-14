@@ -22,4 +22,4 @@ grafico.set(title= "Preço do Combustivel durante os dias", xlabel="Dia", ylabel
  * 3: dia com maior alta da gasolina foi o **Dia 4;**
  * 4: dia com o menor valor da gasolina foi o **Dia 9;**
 
-Durante o curto périodo analisado o preço da gasolina na cidade de São Paulo se mostrou bastante volatil.
+Durante o curto período analisado o preço da gasolina na cidade de São Paulo se mostrou bastante volatil.
