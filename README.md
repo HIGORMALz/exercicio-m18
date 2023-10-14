@@ -6,12 +6,12 @@ Esse projeto mostra um gráfico de linha com o preço médio de vendas de gasoli
 
 **Código de geração**
 
-> 'import seaborn as sns
+> import seaborn as sns
 import matplotlib.pyplot as plt
-> 
-plt.figure(figsize = (15,8))
+ 
+> plt.figure(figsize = (15,8))
 grafico = sns.lineplot(x = "dia", y = "venda", data=df_gasolina)
-grafico.set(title= "Preço do Combustivel durante os dias", xlabel="Dia", ylabel="Valor da venda")'
+grafico.set(title= "Preço do Combustivel durante os dias", xlabel="Dia", ylabel="Valor da venda")
 
 **Gráfico gerado**
 ![]()![image](https://github.com/HIGORMALz/exercicio-m18/assets/138539839/dc8e99bc-658c-4b82-8996-fdedd9ba1528)
